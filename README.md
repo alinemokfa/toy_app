@@ -1,24 +1,13 @@
-# README
+# Ruby on Rails Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Toy application
 
-Things you may want to cover:
+This is the second application for the
+[*Ruby on Rails Tutorial*](https://www.railstutorial.org/)
+by [Michael Hartl](https://www.michaelhartl.com/).
 
-* Ruby version
+## Purpose
 
-* System dependencies
+The purpose is to get a high-level overview of Ruby on Rails programming (and web development in general) by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The resulting toy app will allow me to interact with it through its URLs, giving me insight into the structure of a Rails application, including a first example of the REST architecture favored by Rails.
